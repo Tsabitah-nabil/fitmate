@@ -17,19 +17,19 @@ BMI memiliki beberapa fungsi penting dalam dunia kesehatan dan kebugaran, di ant
 
 Berdasarkan standar yang berlaku di Indonesia, kategori BMI dibagi menjadi beberapa kelompok:
 
-1. **Berat Badan Kurang (Underweight)**
+* **Berat Badan Kurang (Underweight)**
    * BMI < 18,5
    * Individu dalam kategori ini mungkin berisiko mengalami kekurangan nutrisi dan daya tahan tubuh yang rendah.
 
-2. **Berat Badan Normal (Ideal)**
+* **Berat Badan Normal (Ideal)**
    * BMI 18,5 - 22,9
    * Berat badan dalam kisaran ini dianggap sehat dan memiliki risiko penyakit yang lebih rendah dibanding kategori lainnya.
 
-3. **Berat Badan Berlebih (Overweight)**
+* **Berat Badan Berlebih (Overweight)**
    * BMI 23 - 24,9
    * Berat badan mulai melebihi kisaran ideal dan dapat meningkatkan risiko masalah kesehatan jika tidak dikendalikan.
 
-4. **Obesitas**
+* **Obesitas**
    * Obesitas I: BMI 25 - 29,9
    * Obesitas II: BMI ≥ 30
    * Kategori ini meningkatkan risiko berbagai masalah kesehatan seperti tekanan darah tinggi, diabetes tipe 2, serta gangguan jantung.
