@@ -1,0 +1,42 @@
+[
+    {
+        "path": "BMI",
+        "title": "APA ITU BMI?",
+        "author": "anonymous"
+    },
+    {
+        "path": "BMR",
+        "title": "Memahami Basal Metabolic Rate (BMR) dan Perannya dalam Kesehatan",
+        "author": "Tyson"
+    },
+    {
+        "path": "Ideal",
+        "title": "Berat Badan Ideal Pemilik BMI  = 18,5 - 22,9 Pentingnya Menjaga Kesehatan dan Kualitas Hidup",
+        "author": "anonymous"
+    },
+    {
+        "path": "Obesitas3",
+        "title": "Mengatasi Obesitas (IMT ≥ 25): Strategi Efektif untuk Pola Makan, Aktivitas Fisik, dan Gaya Hidup Sehat",
+        "author": "Fatimah Zahra Burhan, Susetyowati, dan Madarina Julia"
+    },
+    {
+        "path": "Obesitas1",
+        "title": "Strategi Sehat untuk Mengatasi Obesitas Kelas I (IMT 25 - 29,9): Pola Makan, Aktivitas Fisik, dan Dukungan Sosial",
+        "author": "Novi Nindy Elisa, Lina Nur Elfiana, Delvina Alifah Rahma, dan Abdul Muhid"
+    },
+    {
+        "path": "Obesitas2",
+        "title": "Strategi Holistik Mengatasi Obesitas Kelas II: Pola Makan, Aktivitas Fisik, dan Intervensi Medis",
+        "author": "Unicef"
+    },
+    {
+        "path": "Overweight",
+        "title": "Strategi Sehat Mengatasi Berat Badan Berlebih (Overweight): Pola Makan, Aktivitas Fisik, dan Gaya Hidup Seimbang",
+        "author": "Andi Paraqleta Nur Eli, Nurhikmawati, Irmayanti, Imran Safei, dan Rachmat Faisal Syamsu"
+    },
+    {
+        "path": "Underweight",
+        "title": "Strategi Sehat untuk Menaikkan Berat Badan: Panduan Nutrisi dan Gaya Hidup bagi Pemilik BMI < 18,5",
+        "author": "Samuel Permana Ratumanan, Achadiyani, dan Astrid Feinisa Khairani"
+    }
+]
