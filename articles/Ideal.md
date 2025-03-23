@@ -1,6 +1,6 @@
 # Berat Badan Ideal Pemilik BMI  = 18,5 - 22,9 Pentingnya Menjaga Kesehatan dan Kualitas Hidup
 
-Oleh 
+Oleh Verona Handayani
 
 Berat badan ideal adalah kondisi di mana berat badan seseorang berada dalam rentang yang sesuai dengan tinggi badannya, sehingga tubuh dapat berfungsi dengan optimal. Berat badan ideal bukan hanya tentang memiliki bentuk tubuh yang proporsional, tetapi juga mencerminkan keseimbangan antara asupan energi dari makanan dan pengeluaran energi melalui aktivitas fisik. Berat badan yang sehat dapat ditentukan melalui berbagai metode, salah satunya menggunakan Indeks Massa Tubuh (IMT) atau Body Mass Index (BMI), yang menghitung perbandingan antara berat badan dan tinggi badan seseorang.
 

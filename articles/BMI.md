@@ -1,6 +1,6 @@
 # APA ITU BMI?
 
-Oleh 
+Oleh Ibnu Ishwara
 
 Indeks Massa Tubuh (IMT) atau Body Mass Index (BMI) adalah metode pengukuran yang digunakan untuk menentukan apakah berat badan seseorang berada dalam kategori ideal, kurang, atau berlebih berdasarkan perbandingan antara berat badan dan tinggi badan. BMI digunakan sebagai indikator kesehatan secara umum, meskipun tidak secara langsung mengukur kadar lemak tubuh.
 
